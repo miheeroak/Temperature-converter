@@ -37,10 +37,8 @@ temperature-converter
 ---
 
 # Preview
+https://miheeroak.github.io/Temperature-converter/
 
-https://miheeroak.github.io/temperature-converter/
-
----
 
 # How to Run Locally
 
