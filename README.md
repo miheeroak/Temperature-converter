@@ -38,7 +38,7 @@ temperature-converter
 
 # Preview
 
-<img width="600" alt="Temperature Converter Preview" src="https://via.placeholder.com/600x300">
+https://miheeroak.github.io/temperature-converter/
 
 ---
 
